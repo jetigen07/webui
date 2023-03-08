@@ -5,6 +5,7 @@ on:
     branches:
       - main
 
+
 env:
   prod_ip_ubuntu: 192.168.1.112
 
